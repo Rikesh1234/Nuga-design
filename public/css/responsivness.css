@@ -77,6 +77,18 @@
   left: -125px;
 }
 
+.cat-section-img-prod img {
+  width: 90%;
+  border-radius: 5%;
+  transition: all 0.3s ease-in-out;
+}
+
+.cat-section-img-prod{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 }
   
   @media (min-width: 600px) and (max-width: 900px) {
