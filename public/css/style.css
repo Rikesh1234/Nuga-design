@@ -1161,3 +1161,7 @@ cursor: pointer;
   width: 34%;
   right: 230px;
 }
+
+.desktop-navigation .logo-container img, .mobile-navigation .logo-container img {
+  width: 81%;
+}
